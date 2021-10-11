@@ -1,0 +1,9 @@
+*.env
+*.ini
+*.session
+*.pyc
+venv
+venv38
+venv39
+.idea
+__pycache__
