@@ -1,0 +1,2 @@
+class IdiNahuyException(Exception):
+    pass
