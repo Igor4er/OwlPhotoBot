@@ -7,3 +7,5 @@ venv38
 venv39
 .idea
 __pycache__
+*.rar
+*.zip
